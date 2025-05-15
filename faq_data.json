@@ -1,0 +1,179 @@
+[
+    {
+        "intent": "greeting",
+        "question": "hi",
+        "answer": "Hello! How can I assist you with college placements today? Would you like to know about placement processes, eligibility criteria, or preparation tips?"
+    },
+    {
+        "intent": "greeting",
+        "question": "hey",
+        "answer": "Hey there! Do you have any queries regarding the placement process? Maybe I can help with interview tips or company-specific requirements?"
+    },
+    {
+        "intent": "greeting",
+        "question": "hello",
+        "answer": "Hello! Feel free to ask me anything about placements or BTech courses. Are you looking for career guidance or academic information?"
+    },
+    {
+        "intent": "placement process",
+        "question": "what is the placement process?",
+        "answer": "The placement process consists of 5 stages: Pre-Placement Talks, Aptitude Test, Group Discussion, Technical Interview, and HR Interview. Would you like me to explain any specific stage in detail?"
+    },
+    {
+        "intent": "eligibility",
+        "question": "what are the shortlisting criteria?",
+        "answer": "The standard criteria include a minimum CGPA of 7.0, 70%+ aggregate score, and no active backlogs. Would you like me to check your eligibility status or suggest improvement strategies?"
+    },
+    {
+        "intent": "placement preparation",
+        "question": "how can I prepare for placements?",
+        "answer": "Focus on aptitude tests, core subject revision, coding practice, and communication skills. Shall I share some recommended resources or mock test platforms?"
+    },
+    {
+        "intent": "interview rounds",
+        "question": "what are the common interview rounds?",
+        "answer": "Most companies conduct Online Tests, Technical Interviews, and HR Interviews. Would you like practice materials for any specific round?"
+    },
+    {
+        "intent": "company specific",
+        "question": "what is the eligibility for TCS placements?",
+        "answer": "TCS requires 60%+ in 10th/12th/BTech with no active backlogs. Should I explain their selection process or suggest preparation resources?"
+    },
+    {
+        "intent": "company specific",
+        "question": "how can I apply for off-campus placements?",
+        "answer": "Use job portals, company websites, and coding platforms. Would you like me to suggest specific portals or help with application strategies?"
+    },
+    {
+        "intent": "resume tips",
+        "question": "what should I include in my resume for placements?",
+        "answer": "Highlight technical skills, projects, internships, and achievements. Would you like a template or want me to review your current resume?"
+    },
+    {
+        "intent": "btech courses",
+        "question": "what courses are available in BTech?",
+        "answer": "We offer CSE, EEE, ME, CE, and ECE. Would you like details about specializations or career paths for any specific branch?"
+    },
+    {
+        "intent": "btech courses",
+        "question": "what is machine learning in BTech?",
+        "answer": "ML covers AI fundamentals, neural networks, and data analysis using Python/TensorFlow. Shall I suggest beginner projects or course recommendations?"
+    },
+    {
+        "intent": "btech courses",
+        "question": "what is the roadmap for Machine Learning?",
+        "answer": "Start with Python basics, progress to algorithms, then deep learning frameworks. Would you like a personalized learning plan or certification guidance?"
+    },
+    {
+        "intent": "btech courses",
+        "question": "what is the roadmap for Web Development?",
+        "answer": "Learn HTML/CSS/JavaScript first, then frameworks and backend technologies. Should I suggest project ideas or deployment strategies?"
+    },
+    {
+        "intent": "btech courses",
+        "question": "what is the roadmap for Cyber Security?",
+        "answer": "Begin with networking basics, then security tools and certifications. Would you like information about ethical hacking labs or certification paths?"
+    },
+    
+        {
+          "intent": "department placement ece",
+          "question": "How are the placements for ECE at KIET?",
+          "answer": "ECE students at KIET have a placement rate of over 90%, with companies like Ericsson, Bosch, and Infosys recruiting regularly. CRPC also helps with skill training in embedded systems and IoT."
+        },
+        {
+          "intent": "department placement me",
+          "question": "How are placements for Mechanical Engineering at KIET?",
+          "answer": "Mechanical students get placed in core and manufacturing companies like Bosch, Honda, and TCS. CRPC assists with design software training like AutoCAD and CATIA."
+        },
+        {
+          "intent": "department placement civil",
+          "question": "What are the placement opportunities for Civil Engineering students at KIET?",
+          "answer": "While the placement rate is relatively lower (~57%), Civil students secure roles in construction firms, government exams, and higher education. CRPC also offers GATE preparation support."
+        },
+        {
+          "intent": "department placement it",
+          "question": "How are IT placements at KIET?",
+          "answer": "The IT branch has one of the highest placement percentages (>93%) with companies like TCS, Infosys, and Deloitte offering roles in development, testing, and consulting."
+        },
+        {
+          "intent": "technical training programs",
+          "question": "Does KIET offer any technical training before placements?",
+          "answer": "Yes, KIET organizes technical bootcamps, hackathons, and coding contests in association with CRPC and technical societies to prepare students for product-based company interviews."
+        },
+        {
+          "intent": "softskills training",
+          "question": "Does KIET provide soft skills training?",
+          "answer": "Yes, soft skills like communication, group discussions, and professional email writing are regularly taught through workshops conducted by the CRPC."
+        },
+        {
+          "intent": "aptitude training",
+          "question": "Is aptitude training provided at KIET?",
+          "answer": "Yes, the CRPC offers regular aptitude and reasoning classes, both in-person and via platforms like CoCubes and AMCAT, to prepare students for company assessments."
+        },
+        {
+          "intent": "alumni success",
+          "question": "Can you share a few alumni success stories from KIET?",
+          "answer": "Many KIET alumni work at Amazon, Microsoft, Infosys, and TCS. Some have pursued higher studies at IITs, IIMs, or abroad. Their success stories are featured on the KIET website and LinkedIn."
+        },
+        {
+          "intent": "startup support",
+          "question": "Does KIET support students who want to start their own company?",
+          "answer": "Yes, KIET has an Innovation & Incubation Centre (KIET-IIC) that supports entrepreneurship with mentorship, seed funding guidance, and startup cells."
+        },
+        {
+          "intent": "placement roadmap",
+          "question": "What should I start with in 1st year to get placed from KIET?",
+          "answer": "Begin with mastering communication and logical reasoning. By 2nd year, focus on coding (if CSE/IT) or core concepts. CRPC starts formal placement training in the pre-final year."
+        },
+        {
+          "intent": "internship tie ups",
+          "question": "Does KIET have internship tie-ups with companies?",
+          "answer": "Yes, KIET collaborates with industries and startups to offer internships via CRPC. Students have interned with TCS, DRDO, and MSMEs across India."
+        },
+        {
+          "intent": "industry certifications",
+          "question": "Can I do industry certifications at KIET?",
+          "answer": "Absolutely. KIET encourages students to complete certifications on Coursera, AWS, Microsoft, and NPTEL. Some programs even offer credits or placement incentives."
+        },
+        {
+          "intent": "mock interviews",
+          "question": "Are mock interviews conducted at KIET?",
+          "answer": "Yes, KIET organizes mock technical and HR interviews with industry professionals and alumni to help students prepare for real placement drives."
+        },
+        {
+          "intent": "gds preparation",
+          "question": "How does KIET prepare students for group discussions?",
+          "answer": "Group Discussions (GDs) are conducted regularly as part of the CRPC training. Faculty and industry mentors guide students on topics, strategies, and etiquettes."
+        },
+        {
+          "intent": "placement timeline",
+          "question": "When does the placement season start at KIET?",
+          "answer": "The placement season at KIET typically begins in July for 4th-year students and continues till May. Pre-placement training starts in the 6th semester."
+        },
+        {
+          "intent": "placement eligibility",
+          "question": "What is the minimum eligibility for appearing in placements at KIET?",
+          "answer": "Students must have at least 60% in 10th, 12th, and BTech with no active backlogs. However, some companies have stricter CGPA requirements."
+        },
+        {
+          "intent": "placement platforms",
+          "question": "Which platforms does KIET use for online placement tests?",
+          "answer": "KIET uses platforms like CoCubes, AMCAT, and HackerRank for conducting online assessments, especially for aptitude and coding rounds."
+        },
+        {
+          "intent": "off campus support",
+          "question": "Does KIET help with off-campus placements?",
+          "answer": "Yes, CRPC circulates off-campus opportunities via email and WhatsApp groups. Students are guided on resume building and LinkedIn outreach."
+        },
+        {
+          "intent": "linkedin support",
+          "question": "Does KIET help in building a LinkedIn profile?",
+          "answer": "Yes, CRPC and faculty conduct LinkedIn profile-building sessions to help students showcase projects, certifications, and achievements."
+        },
+        {
+          "intent": "resume guidance",
+          "question": "Can KIET help me create a good resume?",
+          "answer": "Yes, resume-building workshops are part of the pre-placement training. CRPC also reviews resumes and shares company-specific templates."
+        }
+      
+]
